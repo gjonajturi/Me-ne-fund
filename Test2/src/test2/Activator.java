@@ -14,6 +14,8 @@ public class Activator implements BundleActivator {
 	public void stop(BundleContext context) throws Exception {
 		System.out.println("Goodbye World!!");
 		System.out.println("Goodbye Albania!!");
+		System.out.println("Goodbye Albania!!");
+
 	}
 
 }
