@@ -15,6 +15,8 @@ public class Activator implements BundleActivator {
 		System.out.println("Goodbye World!!");
 		System.out.println("Goodbye Albania!!");
 		System.out.println("Goodbye Albania!!");
+		System.out.println("Goodbye Sister");
+		
 
 	}
 
